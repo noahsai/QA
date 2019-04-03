@@ -1,0 +1,7 @@
+	题目	A	B	C	D	单选和多选的答案
+单选	百度地址是什么？	www.baidu.com	wwwwww.baidu.com	www.bbbidu.com	ww.bd.com	A
+单选	微薄地址是什么？	www.weibo.com	wwwwww.wb.com	WEI.BO.COM	ww.bd.com	A
+多选	谁最厉害	你	我	他	狗	A#B#C#D
+						
+	这行用于说明判断题的结构，需要一列中文答案，需要一列英文答案，都是必须的。	A	B	中文答案，必须	选项答案，必须	
+判断	深度完全沦为了垃圾。	正确	错误	正确	A	

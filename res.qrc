@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/tiku">
+        <file>ti</file>
+        <file>ti.png</file>
+    </qresource>
+</RCC>
